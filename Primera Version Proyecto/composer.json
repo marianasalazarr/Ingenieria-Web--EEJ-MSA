@@ -1,0 +1,19 @@
+{
+    "name": "maria/bienesraices",
+    "description": "Creando un proyecto con POO",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "./classes"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mariana Salazar",
+            "email": "mvazquezs1700@alumno.ipn.mx"
+        }
+    ],
+    "require": {
+        "intervention/image": "^3.6"
+    }
+}
